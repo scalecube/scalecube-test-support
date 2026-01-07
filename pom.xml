@@ -6,7 +6,7 @@
   <parent>
     <groupId>io.scalecube</groupId>
     <artifactId>scalecube-parent</artifactId>
-    <version>0.3.14</version>
+    <version>0.3.16.bump-dependencies.rc1</version>
   </parent>
 
   <artifactId>scalecube-test-support</artifactId>
